@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_travel_expense,travel.expense,model_travel_expense,,1,1,1,1
+access_travel_expense_line,travel.expense.line,model_travel_expense_line,,1,1,1,1
+access_travel_approve_line,travel.approve.line,model_travel_approve_line,,1,1,1,1
+
